@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.721,=C:\Users\Marina\OneDrive\Documents\delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,C:\Users\Marina\OneDrive\Documents\delphi\Unit3.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\zona3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,C:\Users\Marina\OneDrive\Documents\delphi\Unit2.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\pol2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,D:\delphi\курсовая\spravka.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.067,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\glavnaya.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\otchet.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,C:\Users\Marina\OneDrive\Documents\delphi\Unit3.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\zona3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.077,C:\Users\Marina\OneDrive\Documents\delphi\Project1.dproj=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Prkyrs.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,C:\Users\Marina\OneDrive\Documents\delphi\Unit2.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\pol2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,D:\delphi\курсовая\spravka.pas=D:\delphi\курсовая\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\nastroyki.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.067,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\glavnaya.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\Marina\OneDrive\Documents\delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\plan5.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\otgim4.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,D:\delphi\курсовая\Unit9.dfm=D:\delphi\курсовая\web.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.912,D:\delphi\курсовая\Unit9.pas=D:\delphi\курсовая\web.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=D:\delphi\курсовая\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\plan5.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.933,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\nastroyki.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit8.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\otgim4.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,=C:\Users\Marina\OneDrive\Documents\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,C:\Users\Marina\OneDrive\Documents\delphi\Unit1.pas=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\zastavka1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,C:\Users\Marina\OneDrive\Documents\delphi\Unit1.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\zastavka1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.482,=D:\delphi\курсовая\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,C:\Users\Marina\OneDrive\Documents\delphi\курсовая\otchet.dfm=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit7.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,=C:\Users\Marina\OneDrive\Documents\delphi\курсовая\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,D:\delphi\курсовая\spravka.dfm=D:\delphi\курсовая\Unit10.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="glavnaya.pas"/>
+    <File Path="glavnaya.dfm"/>
+    <File Path="nastroyki.pas"/>
+    <File Path="nastroyki.dfm"/>
+    <File Path="otchet.pas"/>
+    <File Path="otchet.dfm"/>
+    <File Path="otgim4.pas"/>
+    <File Path="otgim4.dfm"/>
+    <File Path="plan5.pas"/>
+    <File Path="plan5.dfm"/>
+    <File Path="pol2.pas"/>
+    <File Path="pol2.dfm"/>
+    <File Path="zastavka1.pas"/>
+    <File Path="zastavka1.dfm"/>
+    <File Path="zona3.pas"/>
+    <File Path="zona3.dfm"/>
+    <File Path="web.pas"/>
+    <File Path="web.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
